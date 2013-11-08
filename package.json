@@ -1,0 +1,29 @@
+{
+  "name": "derby-yamlpages",
+  "version": "0.0.1",
+  "description": "Flexible flatpages for derby.js based on yaml syntax",
+  "keywords": [
+    "derby.js",
+    "derbyjs",
+    "derby",
+    "flatpage",
+    "yaml"
+  ],
+  "main": "./index",
+  "author": {
+    "name": "Imbolc",
+    "email": "imbolc@imbolc.name"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:imbolc/derby-yamlpages.git"
+  },
+  "dependencies": {
+    "js-yaml": "*",
+    "marked": "*"
+  },
+  "engine": {
+    "node": "*"
+  }
+}
